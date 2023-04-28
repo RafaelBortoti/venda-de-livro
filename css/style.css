@@ -85,6 +85,10 @@ section.autor h2 {
     padding: 20px;
 }
 
+section.autor img {
+    width: 250px;
+}
+
 section.autor p {
     padding-top: 20px;
     line-height: 30px;
